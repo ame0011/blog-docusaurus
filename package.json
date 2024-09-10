@@ -23,7 +23,8 @@
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "remark-breaks": "^4.0.0"
+    "remark-breaks": "^4.0.0",
+    "remark-flexible-markers": "^1.2.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.4.0",
