@@ -39,7 +39,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          remarkPlugins: [require('remark-breaks'), require('@nplabo/remark-ruby')],
+          remarkPlugins: [require('remark-breaks'), require('@nplabo/remark-ruby'), require('remark-flexible-markers')],
         },
         blog: {
           showReadingTime: true,
@@ -47,7 +47,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          remarkPlugins: [require('remark-breaks'), require('@nplabo/remark-ruby')],
+          remarkPlugins: [require('remark-breaks'), require('@nplabo/remark-ruby'), require('remark-flexible-markers')],
         },
         theme: {
           customCss: './src/css/custom.css',
