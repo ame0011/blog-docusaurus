@@ -5,6 +5,7 @@ tags:
   - Xiaomi Mi Note 10
   - AliExpress
   - 旧ブログからの移行記事
+author: ame
 ---
 :::warning
 この記事を書いた後、スマホを落としました

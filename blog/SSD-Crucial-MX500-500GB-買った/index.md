@@ -5,6 +5,7 @@ tags:
   - PC
   - LB-D712B
 date: 2021-07-23
+author: ame
 draft: false
 ---
 
