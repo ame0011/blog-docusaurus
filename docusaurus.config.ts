@@ -48,6 +48,7 @@ const config: Config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           remarkPlugins: [require('remark-breaks'), require('@ndpr/ruby'), require('remark-flexible-markers')],
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
