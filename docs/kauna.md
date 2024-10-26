@@ -27,7 +27,7 @@ https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7014.html#affe
 
 この3つの使用が重なると問題が起きる
 
-- {Cezanne|セザンヌ} or {Renoir|ルノワール}
+- CPUは{Cezanne|セザンヌ} or {Renoir|ルノワール}
 - PCIe 3.0 x16以上のグラフィックボード
 - ハイレゾ対応ゲームまたはクリエイター向けサウンドデバイス
 
@@ -59,7 +59,9 @@ https://www.techpowerup.com/review/amd-radeon-rx-7900-xtx/37.html
 
 ### ASRock マザーボード
 
-:::warning
+#### M.2 NVMeコネクタの欠陥
+
+:::warning 情報求む
 いつからいつまでの期間？
 :::
 
@@ -71,16 +73,20 @@ https://www.techpowerup.com/review/amd-radeon-rx-7900-xtx/37.html
 
 [^asrock-nvmessd-1]: https://www.amazon.co.jp/gp/customer-reviews/R26ATWRTFMSU9I
 
-:::warning
+#### TjMAXを無断で変更
+
+:::warning 情報求む
 いつからいつまでの期間？
 :::
 
-TjMAXを勝手にメーカーの保証しない115℃に設定していた
+CPUのTjMAXを勝手に115℃に変更して動作させる。
+これはメーカーの保証対象外となる行為である。
 
 ### MSI
 
-批判的なレビューに対し削除を強要している。
-https://www.youtube.com/watch?v=O6BXwCJtaZE
+批判的なレビューに対し削除を強要している[^msi-1]。
+
+[^msi-1]: https://www.youtube.com/watch?v=O6BXwCJtaZE
 
 BIOS設定項目の名前を独自のものに改名し、さも他社にはない機能のように見せている。
 
@@ -103,54 +109,51 @@ Intel Core i9 13900HXなどHX付きのCPUを搭載したノートPCにて、HX�
 北米ASUSのサポートは酷い。
 [ASUS、ぼったくりの修理代金を請求。GeForce RTX 4090の16ピンコネクタの修理代がまさかの金額に](https://www.nichepcgamer.com/archives/asus-geforce-rtx-4090-16-pin-connector-repair-cost-is-a-rip-off.html)
 
-### Western Digital (SanDisk) SSD
+### SSD
 
-バグが多すぎる？
+#### Western Digital SN850X
 
-### Samsung SSD
+1日1回程度の頻度でWindowsがBSoDする不具合がある[^wd-sn850x-1]。
+
+[^wd-sn850x-1]: https://forums.anandtech.com/threads/warning-about-wd-sn850x-nvme-drives.2607586/
+
+#### Samsung SSD
 
 https://www.phoronix.com/forums/forum/software/general-linux-open-source/1277056-samsung-860-870-ssds-continue-causing-problems-for-linux-users?p=1277159#post1277159
-TRIMが動作しなかったりNCQが動作しなかったりバグが多すぎる。
+TRIMが動作しなかったりNCQが動作しなかったりバグが多い。
 
-ベンチマーク詐欺も行っている？
+#### ADATA SX8100
 
-### ADATA SX8100
+故障報告多し。
 
-故障報告多し
-
-### KIOXIA SATA SSD
-
-M.2とは逆にSATAは全製品DRAMキャッシュなし
-それでもいいならあり
-
-### SK hynix Platinum P41
+#### SK hynix Platinum P41
 
 数週間～数ヶ月で書き込み速度が大幅に低下する不具合があり、2024年8月22日現在もなお修正されていない。
 
-### Corsair製SSD
+#### Corsair製SSD
 
 ファームウェアアップデートにWindows専用アプリケーションが必要である。
 
-### Corsair MP700
+#### Corsair MP700
 
 https://www.tomshardware.com/news/pcie-50-ssds-generates-errors-shut-down-without-cooler-fix-on-the-way
 
 ヒートシンクを取り付けずに使うとデータが消失する重大な不具合がある。
-ファームウェアアップデート必須。
+ファームウェアアップデートで解消する。
 
-### Phison E26 コントローラを搭載したSSD
+#### Phison E26 コントローラを搭載したSSD
 
 サーマルスロットリング制御に不具合があり、継続過熱すると強制シャットダウンを起こす。
-ファームウェアアップデート必須。
+ファームウェアアップデートで解消する。
 
-### Phison E21T コントローラを搭載したSSD
+#### Phison E21T コントローラを搭載したSSD
 
 https://pcpartpicker.com/forums/topic/429279-reproducible-permanent-data-loss-on-phison-e21t-based-1-tb-m2-2230-ssds
 
 データが消失する重大な不具合がある。
 PCIeリンク速度を3.0に落とすことで回避できる。
 
-### Samsung OnePlus Realmeスマートフォン
+### Samsung, OnePlus, Realmeスマートフォン
 
 https://www.celsoazevedo.com/files/android/google-camera/troubleshooting/
 すべてのカメラにアクセスできるアプリを恣意的に制限
@@ -158,37 +161,43 @@ https://www.celsoazevedo.com/files/android/google-camera/troubleshooting/
 
 ### Xiaomi スマートフォン 大陸版
 
-HyperOSになってからChinaROMではBootloader Unlockが困難になってしまった。
+HyperOSになってからChinaROMを搭載した中国向け端末(いわゆる大陸版)ではBootloader Unlockが困難になってしまった。
 出荷時はMIUIだった機種でもあとからHyperOSをインストールしてしまうと手遅れ。
 
-### Anker Eufy (カメラ)
+### Anker Eufy (監視カメラ)
 
-https://blog.kaspersky.co.jp/ip-cameras-unsecurity-eufy/33000/
-データを所有者に無断でクラウドサーバーに送信する。
-その事実を告発された際も嘘をついてまともに対応せず、さらには無断でデータを送信していることを少しわかりづらくする工作を行った。
+所有者に無断でデータをクラウドサーバーに送信する[^anker-eufy-1]。
+その事実を告発された際も嘘をついてまともに対応せず、さらには無断でデータを送信していることを少しわかりづらくする工作を行った[^anker-eufy-1]。
 
-https://www.androidpolice.com/eufy-removes-privacy-language/
-それだけにとどまらず、Webページからプライバシーに関する文言を削除し開き直った。
+[^anker-eufy-1]: https://blog.kaspersky.co.jp/ip-cameras-unsecurity-eufy/33000/
+
+それだけにとどまらず、Webページからプライバシーに関する文言を削除し開き直った[^anker-eufy-2]。
+
+[^anker-eufy-2]: https://www.androidpolice.com/eufy-removes-privacy-language/
 
 ### Microsoft Pluton
 
-Microsoftが開発したスケアウェア
+Microsoftが開発したスケアウェア[^microsoft-pluton-1]。
 
-Plutonに感染しているハードウェアは以下
+[^microsoft-pluton-1]: https://semiaccurate.com/2022/01/18/amds-new-cpus-may-be-safe-to-deploy/
+
+影響を受けるハードウェア:
 
 - Qualcomm Snapdragon 8cx Gen 3
 - AMD Ryzen モバイルプロセッサ 6000番台(Rembrandt)
 - AMD Ryzen モバイルプロセッサ 7000番台(Phoenix)
 - 搭載製品
-  - Lenovo ThinkPad Z13[^pluton-lenovo-thinkpadz13]
+  - Lenovo ThinkPad Z13[^microsoft-pluton-lenovo-thinkpadz13]
 
-[^pluton-lenovo-thinkpadz13]: https://www.phoronix.com/news/Lenovo-Pluton-Windows-Default
-
-https://semiaccurate.com/2022/01/18/amds-new-cpus-may-be-safe-to-deploy/
+[^microsoft-pluton-lenovo-thinkpadz13]: https://www.phoronix.com/news/Lenovo-Pluton-Windows-Default
 
 ### 行儀の悪いソフトウェア
 
-アンインストールしても残骸が残る
+アンインストールしても残骸を残していく。
+
+:::tip
+Geek Uninstaller は残骸を消すことができます。
+:::
 
 #### DMMの花札のやつ
 
@@ -198,13 +207,22 @@ https://semiaccurate.com/2022/01/18/amds-new-cpus-may-be-safe-to-deploy/
 >
 > SteamでもヘブバンはCドライブやね。ジャップメーカーさあ
 
-### 筆王ZERO
+#### 筆王ZERO
 
 永年アップデート無料と言いながらOSが変わる度に買わされてWin11には非対応になった
+
+### Linux
+
+2024年10月18日、Linus Torvalds氏はロシアの電子メールアドレスを持つカーネルチーム12名を理由なく外した。
+さらにTorvaldsはこれに対する批判を「ロシアの荒らし」によるものだと妄想している。[^linux-1][^linux-2]
+
+[^linux-1]: https://www.hardwareluxx.de/index.php/news/allgemein/netzpolitik/64734-linus-torvalds-russische-entwickler-aus-linux-kernel-team-entfernt.html
+[^linux-2]: https://linuxnews.de/linux-entfernt-russische-entwickler/
 
 ### オンラインサービス
 
 #### CloudFlare DNS
+
 archive.todayを解決できない
 
 #### GIGAZINE
@@ -220,8 +238,9 @@ WaybackMachineでのアーカイブを拒否している。
 #### ASCII.jp
 
 インテルの場合、不具合は一切報道せずBIOS配布でやっと記事
-AMDは電光石火で記事を書く
-https://web.archive.org/web/20240805083459/https://ascii.jp/elem/000/004/214/4214050/
+[AMDは電光石火で記事を書く](https://web.archive.org/web/20240805083459/https://ascii.jp/elem/000/004/214/4214050/)
+
+さすがにまずいと思ったのかすぐにタイトルだけは修正したようだ。
 
 #### PayPal, Flattr
 
@@ -249,21 +268,23 @@ https://mozilla.github.io/platform-tilt/
 - Googleアプリ
 - Google検索
 
+### Instagram
+
+年齢が13歳以下の方の利用を禁止している。
+
 ### ゲーム
 
 #### Call of Duty BO4, Call of Duty MW 2019, Call of Duty MW3
 
 https://github.com/ValdikSS/GoodbyeDPI/issues/148
 https://www.youtube.com/watch?v=eOViixWjNIQ
-ロシアなどに都合の悪い情報を検閲するDPIを回避するプログラムが動作している場合、起動を拒否する
+ロシアなどに都合の悪い情報を検閲する「DPI」を回避するプログラムが動作している場合、起動を拒否する
 本来はアンチチート用のプログラムであるRICOCHETがこの動作を行っていると推測されている。
 
 ### DELL
 
 顧客情報をずさんに管理して流出させた上に我々も被害者ムーブ
 https://www.bleepingcomputer.com/news/security/dell-api-abused-to-steal-49-million-customer-records-in-data-breach/
-
-対処法: DELLに個人情報を提供しない
 
 ## 自動車
 
@@ -279,7 +300,7 @@ https://www.bleepingcomputer.com/news/security/dell-api-abused-to-steal-49-milli
 - マツダ
   - CX-60
 
-絶対に接続してはいけないUSB Type-Cポートがさも充電用ポートかのように露出しており、知らずにスマートフォンなどを接続してしまうとそれだけでセーフモードに入り修理に100万円以上の高額な費用がかかる。
+絶対に接続してはいけない、デバッグ用のUSB Type-Cポートが露出しており、知らずに充電用だと思ってスマートフォンなどを接続してしまうと最悪の場合セーフモードに入ってしまい修理に100万円以上の高額な費用がかかる。
 
 ## 食品
 
