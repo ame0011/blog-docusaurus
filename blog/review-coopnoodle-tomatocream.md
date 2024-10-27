@@ -10,7 +10,7 @@ authors: ame
 
 コープヌードル トマト&チーズ味
 『カップヌードル 海老の濃厚トマトクリーム味』のパクリと見られる
-
+<!-- truncate -->
 蓋を開けるとちょっとチーズが匂って、あれもしかして違う？と思ったけど、お湯を注ぐと消える
 
 ![Image](https://ca23c948e53b692185a3abd2b3ab9363.ipfs.4everland.link/ipfs/bafybeibheyyq6htcqk5nj5m45oop6ppu7nsasz6vj422lj7x7kcbbalqle?filename=IMG_20230714_141843492.jpg)

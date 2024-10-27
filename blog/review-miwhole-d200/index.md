@@ -12,7 +12,7 @@ draft: true
 今年の上半期のいつかにAliExpressでポチってほったらかしていたSSD、MiWhole D200(2TB)を今更開封
 
 ![CrystalDiskMark_20230918122533_D200_UASP.png](./CrystalDiskMark_20230918122533_D200_UASP.png)
-
+<!-- truncate -->
 まぁDRAMレスQLCのゴミですね…
 NVMeは外付け化できないという思い込みでMiWhole CT300を買わずにSATAのこっち買ってしまった
 
