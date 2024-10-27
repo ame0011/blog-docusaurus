@@ -5,7 +5,7 @@ tags:
   - SSD
   - YMTC
 title: MiWhole D200 2TBを開封してちょっとテスト
-author: ame
+authors: ame
 draft: true
 ---
 

@@ -5,7 +5,7 @@ tags:
   - Xiaomi Redmi 4X
   - Androidディストリビューション
   - 前ブログからの移行記事
-author: ame
+authors: ame
 ---
 ## 概要
 
