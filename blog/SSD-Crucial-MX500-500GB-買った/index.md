@@ -4,6 +4,7 @@ tags:
   - SSD
   - PC
   - LB-D712B
+  - 前ブログからの移行記事
 date: 2021-07-23
 author: ame
 draft: false

@@ -4,7 +4,7 @@ date: 2021-02-07
 tags:
   - Xiaomi Mi Note 10
   - AliExpress
-  - 旧ブログからの移行記事
+  - 前ブログからの移行記事
 author: ame
 ---
 :::warning

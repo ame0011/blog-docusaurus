@@ -4,7 +4,7 @@ title: Xiaomi Redmi 4XはAndroid 9にするとリアカメラがバグる
 tags:
   - Xiaomi Redmi 4X
   - Androidディストリビューション
-  - 旧ブログからの移行記事
+  - 前ブログからの移行記事
 author: ame
 ---
 ## 概要
