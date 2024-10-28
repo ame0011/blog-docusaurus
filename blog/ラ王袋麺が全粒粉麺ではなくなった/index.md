@@ -14,7 +14,7 @@ authors: ame
 
 そして本日未明、(夜中だけど)食べようとしたら
 
-![大袋のパッケージ](https://ca23c948e53b692185a3abd2b3ab9363.ipfs.4everland.link/ipfs/bafybeiflgyqgj25mgg2fdockeobmzs5je7yxof4w6ppwbnqiczuvkqh3te?filename=IMG_20221101_021634.jpg)
+![大袋のパッケージ](./IMG_20221101_021634.jpg)
 
 あれ、なんかパッケージの麺が全粒粉じゃなくね？<!-- truncate -->
 書いてあることも変わってるぞ「さらにうまくなった!!」って？
@@ -26,9 +26,9 @@ authors: ame
 そして朝(午後2時)
 さて食べようか
 
-![5食入りの大袋から取り出した小袋](https://ca23c948e53b692185a3abd2b3ab9363.ipfs.4everland.link/ipfs/bafybeiakbesoebm4ozu36au5nl7eqbejw6ou3ntzcor27bkns5vyvbcib4?filename=IMG_20221101_144148.jpg)
-![そして小袋から取り出した完全なる白き普通の麺](https://ca23c948e53b692185a3abd2b3ab9363.ipfs.4everland.link/ipfs/bafybeicc7pel3cttdotowlumvj2dxk6fpfqzvitjmvfkh5gps5o7qzjduq?filename=IMG_20221101_144300.jpg)
-![出来たラーメンの写真](https://ca23c948e53b692185a3abd2b3ab9363.ipfs.4everland.link/ipfs/bafybeictlt6iqngjeh7se4jf5l743syxf7stzcaxihqzc4al7mzrxjgbui?filename=IMG_20221101_145205.jpg)
+![5食入りの大袋から取り出した小袋](./IMG_20221101_144148.jpg)
+![そして小袋から取り出した完全なる白き普通の麺](./IMG_20221101_144300.jpg)
+![出来たラーメンの写真](./IMG_20221101_145205.jpg)
 
 はい、これは完全に全粒粉じゃない普通の麺になっています
 〜終〜
