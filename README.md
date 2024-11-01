@@ -1,41 +1,41 @@
-# Website
+# ウェブサイト
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+このWebサイトは [Docusaurus](https://docusaurus.io/) で作られています。
 
-### Installation
+### インストール
 
 ```
 $ pnpm install
 ```
 
-### Local Development
+### ローカルでの開発
 
 ```
 $ pnpm start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+このコマンドによりローカル開発サーバーが立ち上がりブラウザで開かれます。変更を行った際にサーバーの再起動は不要です。
 
-### Build
+### ビルド
 
 ```
 $ pnpm build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+このコマンドにより静的コンテンツが `build` ディレクトリに生成され、静的コンテンツホスティングサービスに展開できます。
 
-### Deployment
+### デプロイ
 
-Using SSH:
+SSHを使用する場合:
 
 ```
 $ USE_SSH=true pnpm deploy
 ```
 
-Not using SSH:
+SSHを使用しない場合:
 
 ```
 $ GIT_USER=<Your GitHub username> pnpm deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+GitHub pagesをホスティングに利用するならこのコマンドで簡単に `gh-pages` ブランチにプッシュできます。
