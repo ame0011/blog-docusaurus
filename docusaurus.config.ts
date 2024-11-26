@@ -94,38 +94,41 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'アカウント',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'X',
+              href: 'https://x.com/ame_youjo',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'iris (Nostr)',
+              href: 'https://iris.to/ame0101',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'GitGud',
+              href: 'https://gitgud.io/ame0011',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/ame0011',
+            },
+            {
+              label: 'niconico',
+              href: 'https://www.nicovideo.jp/user/44366807',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'ほか',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'リポジトリ',
+              href: 'https://github.com/ame0011/blog-docusaurus',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()
-        } My Project, Inc.Built with Docusaurus.`,
+      copyright: `このサイトはDocusaurusで作られています。`,
     },
     prism: {
       theme: prismThemes.github,
