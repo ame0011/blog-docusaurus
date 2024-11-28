@@ -196,6 +196,24 @@ HyperOSになってからChinaROMを搭載した中国向け端末(いわゆる�
 
 [^anker-eufy-2]: https://www.androidpolice.com/eufy-removes-privacy-language/
 
+### Sony PC TV Plus
+
+> SSDの価格変動に右往左往するスレ214台
+> https://egg.5ch.net/test/read.cgi/jisaku/1730652845/978
+> 978: Socket774警備員[Lv.7][新芽]   2024/11/26(火) 22:41:54.62 ID:cKeayL6h
+> ちなみにシステムドライブにSATASSD使った理由はソニーのPCTVPLUSという糞アプリがTV見ている間ずっとCドライブに書き込んでくクソ仕様なのがわかって
+> YMTC232M.2使うの勿体ないから安物にしたくて切り替えた
+
+> https://egg.5ch.net/test/read.cgi/jisaku/1730652845/982
+> 982: Socket774警備員[Lv.7][新芽]   2024/11/26(火) 22:59:58.37 ID:cKeayL6h
+> \>>980
+> 改善要望はソニーに出しておいた
+> Cドライブ固定じゃなくて設定で切り替えられるようにしろと
+> Cドライブは最近書き込み寿命のあるSSDほとんどなんだからと
+> 
+> 2MB/sくらい書き込むんよ
+> それ以外は使い勝手悪くないアプリなんだけどね
+
 ### Microsoft Pluton
 
 Microsoftが開発したスケアウェア[^microsoft-pluton-1]。
