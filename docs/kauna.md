@@ -153,7 +153,7 @@ https://pcpartpicker.com/forums/topic/429279-reproducible-permanent-data-loss-on
 データが消失する重大な不具合がある。
 PCIeリンク速度を3.0に落とすことで回避できる。
 
-### Samsung, OnePlus, Realmeスマートフォン
+### Samsung, OnePlus, Realme, Vivoスマートフォン
 
 https://www.celsoazevedo.com/files/android/google-camera/troubleshooting/
 すべてのカメラにアクセスできるアプリを恣意的に制限
