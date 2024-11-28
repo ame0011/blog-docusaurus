@@ -9,6 +9,21 @@ date: 2024-09-01
 
 ## Windows
 
+Windowsでのみ使える、または使う必要のあるもの。
+
+### UniGetUI
+
+各種パッケージマネージャーのGUIフロントエンド。
+
+GUIから複数のパッケージマネージャーを横断してパッケージを検索してインストールしたり、インストールされているパッケージをまとめて更新したりできる。
+
+![パッケージを検索している様子](./unigetui-search.png)
+![インストールされているパッケージの一覧を表示](./unigetui-installed.png)
+![インストールされているパッケージの更新](./unigetui-update.png)
+![UniGetUIの概要を表示](./unigetui-about.png)
+
+https://www.marticliment.com/unigetui/
+
 ### Meiryo UIも大っきらい!!
 
 :::tip
@@ -19,7 +34,7 @@ date: 2024-09-01
 ![アプリケーションのスクリーンショット](./no-meiryoui.png)
 
 システムフォントを簡単に変更できるツール。
-レジストリの編集でも同じことはできるが、繰り返しの操作が多く{煩雑|はんざつ}であった。
+レジストリの編集でも同じことはできるが、繰り返しの操作が多く{煩雑|はんざつ}になる。
 
 https://github.com/Tatsu-syo/noMeiryoUI
 
