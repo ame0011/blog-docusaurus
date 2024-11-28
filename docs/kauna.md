@@ -120,7 +120,28 @@ Intel Core i9 13900HXなどHX付きのCPUを搭載したノートPCにて、HX�
 #### Samsung SSD
 
 https://www.phoronix.com/forums/forum/software/general-linux-open-source/1277056-samsung-860-870-ssds-continue-causing-problems-for-linux-users?p=1277159#post1277159
-TRIMが動作しなかったりNCQが動作しなかったりバグが多い。
+
+##### Samsugn 860 870 EVO SSD
+
+連続的TRIMが壊れている。
+またAMDチップセット下ではNCQも不具合を起こす。[^samsung-860-870-evo-1]
+
+LinuxやWindowsでは応急処置としてこの機種ではTRIMもNCQも無効-になるので基本的な動作は可能である。
+ただしNCQが無効になるとパフォーマンスが低下してしまう。[^samsung-860-870-evo-1]
+
+:::info
+TRIMコマンドには定期的TRIMと連続的TRIMの2種類がある。
+Windowsは定期的TRIMにのみ対応、Linuxではどちらも対応している。
+:::
+
+[^samsung-860-870-evo-1]: https://www.phoronix.com/news/Samsung-860-870-More-Quirks
+
+#### Crucial SSD
+
+型番を変えずにサイレント仕様変更を繰り返している。
+またレビュアーに高速な仕様のものを配布してからこっそり部品をダウングレードして性能を低下させるなどの詐欺を行っている。[^crucial-1]
+
+[^crucial-1]: https://www.extremetech.com/computing/325824-buyer-beware-crucial-swaps-p2-ssds-tlc-nand-for-slower-inferior-qlc-chips
 
 #### ADATA SX8100
 
