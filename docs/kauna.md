@@ -311,6 +311,8 @@ https://mozilla.github.io/platform-tilt/
 
 年齢が13歳以下の方の利用を禁止している。
 
+オリジナルの動画を投稿しただけで何故かBANする。
+
 ### ゲーム
 
 #### Call of Duty BO4, Call of Duty MW 2019, Call of Duty MW3
