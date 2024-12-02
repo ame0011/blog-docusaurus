@@ -65,11 +65,11 @@ https://www.techpowerup.com/review/amd-radeon-rx-7900-xtx/37.html
 いつからいつまでの期間？
 :::
 
-コネクタに設計ミスがあり標準的なM.2 NVMe SSDを認識しない欠陥がある。
+設計ミスがあり標準的なM.2 NVMe SSDを認識しない欠陥がある。
 それについてまともにサポートもしなかった。
-今でもどの製品に欠陥があるのか公式のアナウンスはない。
-特にAM4までの製品には要注意。
-最近のものではASRock B760M Pro RS/D4でもこの問題が報告された[^asrock-nvmessd-1]
+どの製品に欠陥があるのか公式のアナウンスは見つけられなかった。
+特にAM4までの製品は要注意とされる。
+最近のものではASRock B760M Pro RS/D4でもこの問題が10人以上のユーザーから報告されている[^asrock-nvmessd-1]。
 
 [^asrock-nvmessd-1]: https://www.amazon.co.jp/gp/customer-reviews/R26ATWRTFMSU9I
 
