@@ -66,3 +66,20 @@ https://github.com/M2Team/NanaZip
 
 `winget install --id M2Team.NanaZip --interactive` // インストーラを表示する
 `winget install --id M2Team.NanaZip` // 無人インストール
+
+### ImageGlass
+
+:::warning
+インストールやアップデートで必ずデスクトップにショートカットを生成します。
+:::
+
+https://github.com/d2phap/ImageGlass
+
+画像表示ソフトウェア。
+
+`winget install --id DuongDieuPhap.ImageGlass --interactive` // インストーラを表示する
+`winget install --id DuongDieuPhap.ImageGlass` // 無人インストール
+
+[UniGetUIで表示](https://marticliment.com/unigetui/share/?name=ImageGlass&id=DuongDieuPhap.ImageGlass&sourceName=winget&managerName=WinGet)
+
+Microsoft Storeからもインストールできるが有料となる。
