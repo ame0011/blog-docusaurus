@@ -214,6 +214,16 @@ HyperOSになってからChinaROMを搭載した中国向け端末(いわゆる�
 > 2MB/sくらい書き込むんよ
 > それ以外は使い勝手悪くないアプリなんだけどね
 
+### GameSir
+
+Amazonレビューで低評価をすると返金するからレビューを削除しろと要求してくる。
+
+### Nimaso
+
+Amazonレビューで低評価をすると返金するからレビューを削除しろと要求してくる。[^nimaso-1]
+
+[^nimaso-1]: https://x.com/aoshijima/status/1865182632088404225
+
 ### Microsoft Pluton
 
 Microsoftが開発したスケアウェア[^microsoft-pluton-1]。
