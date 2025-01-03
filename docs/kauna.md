@@ -143,6 +143,12 @@ Windowsは定期的TRIMにのみ対応、Linuxではどちらも対応してい�
 
 [^crucial-1]: https://www.extremetech.com/computing/325824-buyer-beware-crucial-swaps-p2-ssds-tlc-nand-for-slower-inferior-qlc-chips
 
+##### Crucial T500
+
+[:vhs: Gen4最強SSDのCrucial T500、書き込み遅すぎ問題は最新ファームウェアで解決したの？　⇒してませんでした。2024年10月末ファームウェア検証結果の備忘録](https://www.youtube.com/watch?v=Hc7EWOnFuRM)
+
+連続で書き込みを行うと約330MB/s程度にまで速度が落ちてしまう。
+
 #### ADATA SX8100
 
 故障報告多し。
