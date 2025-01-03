@@ -44,6 +44,17 @@ https://github.com/Tatsu-syo/noMeiryoUI
 
 https://meir000.github.io/MeiryoKe/
 
+### DWMBlurGlass
+
+Windows 10|11にAeroのような半透明な視覚効果を付与できる。
+
+![様々なウィンドウを開いたデスクトップのスクリーンショット1](https://github.com/Maplespe/DWMBlurGlass/raw/master/Screenshot/001701.png)
+![様々なウィンドウを開いたデスクトップのスクリーンショット2](https://github.com/Maplespe/DWMBlurGlass/raw/master/Screenshot/10307.png)
+
+> これらの画像は公式リポジトリより
+
+https://github.com/Maplespe/DWMBlurGlass
+
 ### NanaZip
 
 https://github.com/M2Team/NanaZip
