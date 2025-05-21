@@ -107,6 +107,14 @@ BIOS設定項目の名前を独自のものに改名し、さも他社にはな�
 
 [^msi-intel-motherboard-1]: https://youtu.be/TmU3COA-32E?si=_KxeJi8BZsmUm3Nw&t=522
 
+### ASUS PCIe Slot Q-Release Slim搭載のマザーボード
+
+この機構には脱着の際にカードが引っかかり端子部分を削り取ってしまう欠陥がある[^asus-q-release-slim-1][^asus-q-release-slim-2][^asus-q-release-slim-3]。
+
+[^asus-q-release-slim-1]: https://videocardz.com/newz/asus-pcie-slot-q-release-slim-mechanism-may-scratch-your-gpu-first-rtx-5090-affected
+[^asus-q-release-slim-2]: https://www.bilibili.com/video/BV1UefJYtEUy/
+[^asus-q-release-slim-3]: https://x.com/aschilling/status/1882688162008650071
+
 ### Acer ラップトップ
 
 Intel Core i9 13900HXなどHX付きのCPUを搭載したノートPCにて、HX付きであるにも関わらず電圧の変更を塞いでいる？[^acer-laptop-1]
