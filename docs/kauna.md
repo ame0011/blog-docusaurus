@@ -188,6 +188,12 @@ Windowsは定期的TRIMにのみ対応、Linuxではどちらも対応してい�
 
 [^crucial-1]: https://www.extremetech.com/computing/325824-buyer-beware-crucial-swaps-p2-ssds-tlc-nand-for-slower-inferior-qlc-chips
 
+##### Crucial MX500
+
+最新のファームウェア「M3CR046」にバッファオーバーフローの脆弱性がある[^crucial-mx500-m3cr046]。
+
+[^crucial-mx500-m3cr046]: https://www.techpowerup.com/326587/crucial-mx500-ssd-firmware-m3cr046-vulnerable-to-buffer-overflow-attacks
+
 ##### Crucial T500
 
 [:vhs: Gen4最強SSDのCrucial T500、書き込み遅すぎ問題は最新ファームウェアで解決したの？　⇒してませんでした。2024年10月末ファームウェア検証結果の備忘録](https://www.youtube.com/watch?v=Hc7EWOnFuRM)
