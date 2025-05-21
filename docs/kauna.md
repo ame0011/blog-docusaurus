@@ -212,6 +212,11 @@ Windowsは定期的TRIMにのみ対応、Linuxではどちらも対応してい�
 
 ファームウェアアップデートにWindows専用アプリケーションが必要である。
 
+#### ORICO O7000 SSD
+
+NANDをTLCからQLCへ無断で切り替えている。
+[:vhs: とある噂を聞いて格安ハイエンドSSDを買ってみたら要注意な事実が判明！ORICO O7000(2TB)　2回目レビュー](https://www.youtube.com/watch?v=IIuxjwZ8Utk)
+
 #### Corsair MP700
 
 https://www.tomshardware.com/news/pcie-50-ssds-generates-errors-shut-down-without-cooler-fix-on-the-way
