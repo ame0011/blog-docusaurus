@@ -464,6 +464,15 @@ https://www.youtube.com/watch?v=YgawxLAqCNc
 甘味料→✅イソマルツロース、トレハルロース
 デンプンの老化促進→✅イソマルトデキストリン
 
+### アサヒ食品グループ
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【閲覧注意】<br>アサヒグループ食品いつものおみそ汁からクワガタの頭のようなものが出てきた。<br><br>数日体調不良になっていたので、本社に問い合わせたら対応がまさかのQUOカード300円で納得いかない<br><br>商品自体800円程なのに小分けの1袋分しか帰ってこなかった<br> <a href="https://twitter.com/hashtag/%E7%95%B0%E7%89%A9%E6%B7%B7%E5%85%A5?src=hash&amp;ref_src=twsrc%5Etfw">#異物混入</a> <a href="https://twitter.com/hashtag/%E6%8B%A1%E6%95%A3%E5%B8%8C%E6%9C%9B?src=hash&amp;ref_src=twsrc%5Etfw">#拡散希望</a> <a href="https://twitter.com/hashtag/%E4%BC%81%E6%A5%AD%E5%AF%BE%E5%BF%9C?src=hash&amp;ref_src=twsrc%5Etfw">#企業対応</a> <a href="https://t.co/9r0sYQGhbM">pic.twitter.com/9r0sYQGhbM</a></p>&mdash; Len (@MELTDOWN_Na) <a href="https://twitter.com/MELTDOWN_Na/status/1912859323249959024?ref_src=twsrc%5Etfw">April 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![QUOカード300円分](https://pbs.twimg.com/media/GovXah8bMAAcRBj?format=jpg&name=orig)
+![クワガタの頭のようなもの](https://pbs.twimg.com/media/GovXah3aAAAvG5W?format=jpg&name=orig)
+
+味噌汁からクワガタの頭のようなものが出て数日体調不良に見舞われたものの、対応がたったのQUOカード300円だけ。
+
 ### ニップン
 
 イソマルトオリゴ糖の商品ページにて科学的根拠のない宣伝を行う
@@ -480,3 +489,18 @@ https://www.youtube.com/watch?v=YgawxLAqCNc
 ### 名古屋市名東区
 
 https://www.youtube.com/watch?v=uMB72vFhdPY
+
+### 海外の牛乳、およびそれを用いた加工品
+
+日本以外では家畜の牛への成長ホルモンの投与が禁止されていないため、牛乳の成長ホルモンの含有量が高い。
+この成長ホルモンこと*インスリン様成長因子(IGF)*は皮脂の分泌を増やすなど悪影響がある。
+
+### オーストラリア
+
+インターネットの利用が規制されている。
+あなたはオーストラリア産の商品を購入したくないかもしれない。
+
+### 中華人民共和国(中国)
+
+インターネットの利用が規制されている。
+あなたは中国産の商品を購入したくないかもしれない。
