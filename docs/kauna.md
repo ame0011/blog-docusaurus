@@ -126,6 +126,34 @@ Intel Core i9 13900HXなどHX付きのCPUを搭載したノートPCにて、HX�
 北米ASUSのサポートは酷い。
 [ASUS、ぼったくりの修理代金を請求。GeForce RTX 4090の16ピンコネクタの修理代がまさかの金額に](https://www.nichepcgamer.com/archives/asus-geforce-rtx-4090-16-pin-connector-repair-cost-is-a-rip-off.html)
 
+### Inno3Dのグラフィックボード
+
+ファンが必ず経年劣化で壊れる。
+またステッカーを剥がせば保証が無効になるという違法な保証規定が記されてある。[^inno3d-graphicsboard]
+
+[^inno3d-graphicsboard]: https://www.youtube.com/watch?v=Sk_aZg9ZvTU
+
+### NVIDIA GeForce RTX 3060 Ti でHynix製のメモリチップを搭載しているグラフィックボード
+
+数年使用するとゲーム中に画面が暗転しクラッシュする不具合が発生する可能性がある[^nvidia-geforce-rtx-3060-ti]。
+
+このグラフィックボードには3種類のメモリチップが存在しており、そのうちのHynix製メモリが搭載されていた場合に問題が生じる。
+
+- Hynix
+  - 第1世代
+  - 第2世代
+  - 第3世代
+- Micron
+- Samsung
+
+Hynix製メモリには第1世代～第3世代まであり、第1世代にもっとも顕著に問題が生じる。
+特に*Hynix X005*と呼ばれるチップに問題があるとされていたが、後にすべてのHynix製メモリチップに問題があると判明した。
+第2世代以降はマシになっているものの遅かれ故障する。
+
+このグラフィックボードに搭載できる最高のメモリチップはSamsung製のものでありオーバークロック耐性も高い。
+
+[^nvidia-geforce-rtx-3060-ti]: :vhs: https://www.youtube.com/watch?v=d_dcdT_I25Q
+
 ### SSD
 
 #### Western Digital SN850X
