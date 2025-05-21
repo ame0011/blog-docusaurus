@@ -72,6 +72,12 @@ https://www.techpowerup.com/review/amd-radeon-rx-7900-xtx/37.html
 
 [^asrock-nvmessd-1]: https://www.amazon.co.jp/gp/customer-reviews/R26ATWRTFMSU9I
 
+> ASRock Japan @AsrockJ
+> 現状の各最新BIOSでは動作確認が取れました！
+> 新型マザーボードにはサポートリストにも記載予定となっております。
+> 原因としましてはGNDの位置が一般的なマザーボードとは異なっているためBIOS上認識しなかったとBIOSチームから連絡ありました。なかなか特殊なSSDとのことです！
+https://x.com/AsrockJ/status/1358360196532170752
+
 #### TjMAXを無断で変更
 
 :::warning 情報求む
