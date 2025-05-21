@@ -158,7 +158,7 @@ Hynix製メモリには第1世代～第3世代まであり、第1世代にもっ
 
 #### Western Digital SN850X
 
-1日1回程度の頻度でWindowsがBSoDする不具合がある[^wd-sn850x-1]。
+Windowsにおいてブルースクリーンが1日1回程度の頻度で起こる[^wd-sn850x-1]。
 
 [^wd-sn850x-1]: https://forums.anandtech.com/threads/warning-about-wd-sn850x-nvme-drives.2607586/
 
