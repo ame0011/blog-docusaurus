@@ -154,6 +154,22 @@ Hynix製メモリには第1世代～第3世代まであり、第1世代にもっ
 
 [^nvidia-geforce-rtx-3060-ti]: :vhs: https://www.youtube.com/watch?v=d_dcdT_I25Q
 
+### NVIDIA RTX 5000番台 (Blackwell) GPU
+
+32BitのOpenCLとCUDAおよびPhysXのサポートが削除された。
+
+> GeForce RTX 50 Series から 32bit な CUDA/OpenCL が切られたことにより patch.aul の fast.cl が無効化されてしまう事態が Twitter や 2ch などで散見されてるな
+> 
+> それによりB系を入れられちゃうのは避けたい気がするが、そもそも 32bit サポートがハードウェア側からどんどん切られていく気がするなという
+> 
+> やA滅
+
+https://misskey.io/notes/a7gaywvfpo9o06bz
+
+### GIGABYTE製のRTX5000番台・RX9000番台のグラフィックボード
+
+サーマルパッドの代わりにサーマルゲルが使用されているのだが、それが縦向きにされただけで垂れてきてしまう問題がある。
+
 ### SSD
 
 #### Western Digital SN850X
