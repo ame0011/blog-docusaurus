@@ -20,7 +20,7 @@ https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7014.html#affe
 
 ### AMD Ryzen モバイルプロセッサ 6000番台(Rembrandt)と7000番台(Phoenix)
 
-[Plutonに感染している](#microsoft-pluton)
+[Plutonに感染している。](#microsoft-pluton)
 
 ### AMD Ryzen APU 5000番台(5700Gなど) (Cezanne or Renoir)
 
@@ -34,15 +34,15 @@ https://www.reddit.com/r/Amd/comments/11no3nd/a_detailed_summary_of_the_cracklin
 
 ### Intel CPU 第13世代と第14世代 Raptor Lake or Raptor Lake Refresh
 
-ただ使っているだけで数週間～1年ほどで壊れる「焼損問題」というリコール級の重大な欠陥をかかえる。
-ゲームをプレイ中にVRAMエラーなどが発生して落ちるようになる
-やがてOSの起動もできないほどになり[^raptorlake-1]、UEFIの設定画面ですら落ちるようになる。
-第12世代{Alder Lake|アルダーレイク}はセーフ、ただしAlderのリネームなものでも13世代(13000番台)ならアウト
+ただ使っているだけで数週間～1年ほどで壊れる「焼損問題」というリコール級の重大な欠陥がある。
+初期症状はゲームをプレイ中にVRAMエラーなどが発生して落ちるようになる。
+進行するとやがてOSの起動もできないほどになり[^raptorlake-1]、UEFIの設定画面ですら落ちるようになる。
+第12世代{Alder Lake|アルダーレイク}はセーフ、ただしAlderのリネームなものでも13世代(13000番台)ならアウトかもしれない。
 特許侵害を指摘され13世代から変更された電圧制御が関係しているとされる。
 
 [^raptorlake-1]: https://www.youtube.com/watch?v=38jxCharrwc
 
-上記に伴いベンチマーク詐欺(焼損するほどの過剰なオーバークロック状態でのスコアをメディアを通じて宣伝)
+上記に伴いベンチマーク詐欺(焼損するほどの過剰なオーバークロック状態でのスコアをメディアを通じて宣伝)。
 
 
 ### Intel
@@ -53,7 +53,7 @@ https://old.reddit.com/r/hardware/comments/1ei1zvm/intel_has_denied_two_of_my_14
 ### AMD Radeon GPU
 
 モニターのリフレッシュレートが60超過だとメモリクロックが最大になって下がらなくなり、アイドル消費電力がとても高くなる問題がある。
-また動画再生中の消費電力がNVIDIA GeForceより高い
+また動画再生中の消費電力がNVIDIA GeForceより高い。
 https://www.techpowerup.com/review/amd-radeon-rx-7900-xtx/37.html
 
 ### ASRock マザーボード
@@ -306,6 +306,12 @@ Amazonレビューで低評価をすると返金するからレビューを削�
 Amazonレビューで低評価をすると返金するからレビューを削除しろと要求してくる。[^nimaso-1]
 
 [^nimaso-1]: https://x.com/aoshijima/status/1865182632088404225
+
+### Logicool
+
+動作に必要になる[「G HUB」](https://gaming.logicool.co.jp/ja-jp/innovation/g-hub.html)という(Windows・MacOS専用の)常駐ソフトには、TEMPフォルダを別のドライブに設定していると起動しなくなるバグがバージョン2024.6から2025年6月現在まで放置されている[^logicool-ghub]。
+
+[^logicool-ghub]: https://www.reddit.com/r/LogitechG/comments/1et5frr/last_update_of_ghub_broke_it_so_much_that_you/
 
 ### Microsoft Pluton
 
