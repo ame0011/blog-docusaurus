@@ -318,6 +318,14 @@ Amazonレビューで低評価をすると返金するからレビューを削�
 
 [^logicool-ghub]: https://www.reddit.com/r/LogitechG/comments/1et5frr/last_update_of_ghub_broke_it_so_much_that_you/
 
+### Procolored製のプリンター
+
+マルウェアに感染したドライバーを配布していた。
+その上、報告に対してマルウェアには感染していないと嘘の返答をして取り合わなかった。[^procolored-1][^procolored-2]
+
+[^procolored-1]: https://www.gdatasoftware.com/blog/2025/05/38200-printer-infected-software-downloads
+[^procolored-2]: https://www.reddit.com/r/computerviruses/comments/1kbkmgq/viruses_included_in_product_im_reviewing/
+
 ### Microsoft Pluton
 
 Microsoftが開発したスケアウェア[^microsoft-pluton-1]。
