@@ -53,7 +53,26 @@ Windows 10|11にAeroのような半透明な視覚効果を付与できる。
 
 > これらの画像は公式リポジトリより
 
+OpenGlassとの違い
+
+- GUIですべてが完結するため、初心者向け
+- Windows 10|11のスタイルにマッチしている
+- 10|11の雰囲気を尊重しつつそこに透過効果をもたらすのにいいかも？
+
 https://github.com/Maplespe/DWMBlurGlass
+
+### OpenGlass
+
+DWMBlurGlassとの違い
+
+- バッチファイルを使ったり設定はレジストリで行うなど、上級者向け
+- Windows 7のスタイルに忠実
+- Aeroテーマとの相性が良い
+- Vista|7のより精巧な再現をもとめるのにいいかも？
+
+💡ヒント: [Aero7-11テーマ](https://github.com/LittleFox2024/Aero7-11)と併用するとよいだろう。
+
+https://github.com/ALTaleX531/OpenGlass
 
 ### NanaZip
 
