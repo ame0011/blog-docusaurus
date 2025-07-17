@@ -9,7 +9,7 @@ date: 2024-09-01
 
 ## Windows
 
-Windowsでのみ使える、または使う必要のあるもの。
+Windowsでのみ使えるか、使う必要のあるもの。
 
 ### UniGetUI
 
@@ -27,7 +27,7 @@ https://www.marticliment.com/unigetui/
 ### Meiryo UIも大っきらい!!
 
 :::tip
-使用前に以下のコマンドでレジストリのバックアップを作成することが推奨されています。
+使用前に以下のコマンドでレジストリをバックアップすることが推奨されています。
 `REG SAVE "HKCU\Control Panel" %LOCALAPPDATA%\noMeiryoUI_HKCU.reg /y`
 :::
 
