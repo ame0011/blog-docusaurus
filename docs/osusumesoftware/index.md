@@ -7,6 +7,53 @@ date: 2024-09-01
 
 複数のOSで動作するもの。
 
+### Kopia
+
+バックアップソフトウェア。
+
+### VSCodium
+
+FLOSSのスケーラブルな高性能エディタ。
+プログラミングから文章作成まで、様々な用途で使用できる。
+プログラミングにおいては定番だ。
+
+https://vscodium.com/
+
+`winget install vscodium --interactive` // インストーラーを表示してインストール
+`winget install vscodium` // 無人インストール
+
+### PeaZip
+
+クロスプラットフォーム対応の、CLIとGUIに両対応したアーカイバー。
+
+対応している形式:
+
+- 7z
+  - 自己展開型 7Z
+- ARC
+  - 自己展開型 ARC
+- Brotil
+- BZip2
+- GZip
+- [PEA](https://peazip.github.io/pea-file-format.html)
+- QUAD/BALZ/BCM
+- 分割
+- TAR
+- [UPX (※実行ファイル向けの圧縮形式)](https://upx.github.io/)
+- WIM
+- XZ
+- Zip
+- Zstandard (Zstd)
+- ZPAQ
+
+![対応する形式のリストを表示したスクリーンショット](./peazip-list.png)
+
+残念ながら[lz4(※圧縮率を上げても不変である高速な展開速度が利点)](https://github.com/lz4/lz4)には非対応のようだ。
+
+PEAはおそらく独自のものっぽいが圧縮アルゴリズムはただのZlibのdeflateであり大したことはない[^pea-algo]。
+
+[^pea-algo]: https://peazip.github.io/pea-file-format.html
+
 ## Windows
 
 Windowsでのみ使えるか、使う必要のあるもの。
