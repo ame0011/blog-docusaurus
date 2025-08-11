@@ -530,6 +530,19 @@ https://www.youtube.com/watch?v=YgawxLAqCNc
 - https://www.youtube.com/watch?v=N7iPJScGcrs
 - https://www.youtube.com/watch?v=ipIj5ACAzS4
 
+## 会社
+
+### RIAA
+
+RIAAにはUMG、Capitol Records、Concord Bicycle Assets、CMGI Recorded Music Assets、Sony Music Entertainment、Arista Musicが含まれる。
+
+Internet Archiveに対して訴訟を行っている[^ia-1][^ia-2]。
+
+[^ia-1]: https://blog.archive.org/2025/04/17/take-action-defend-the-internet-archive/
+[^ia-2]: 
+
+GamersNexusのニュース: [📼Tip Line - Microsoft Recall Bypass, Burning Battery Banks, Right to Repair Laws](https://youtu.be/jAy3BT0PLEg?t=302&si=-MCI0XHibAzS2fSl)
+
 ## 地域
 
 ### 名古屋市名東区
