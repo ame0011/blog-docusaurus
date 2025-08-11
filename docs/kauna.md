@@ -376,6 +376,19 @@ Geek Uninstaller は残骸を消すことができます。
 [^linux-1]: https://www.hardwareluxx.de/index.php/news/allgemein/netzpolitik/64734-linus-torvalds-russische-entwickler-aus-linux-kernel-team-entfernt.html
 [^linux-2]: https://linuxnews.de/linux-entfernt-russische-entwickler/
 
+### Kaldaien氏
+
+多数のゲームフォーラムからBANされた上に、モデレーターを批判しており完全に自分は正しいと確信している。[^kaldaien-1]
+
+[^kaldaien-1]: https://steamcommunity.com/discussions/forum/7/2798376099468450321/
+
+#### Special K
+
+Kaldaien氏を開発チームに採用している。
+以前はSteam上でも配信されていたが、ValveからBANされた経緯を持ついわくつきでもある。[^special-k-1]
+
+[^special-k-1]: https://steamcommunity.com/games/1157970/announcements/detail/2725193056674812318
+
 ### オンラインサービス
 
 #### CloudFlare DNS
