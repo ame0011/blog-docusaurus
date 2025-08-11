@@ -136,6 +136,12 @@ Intel Core i9 13900HXなどHX付きのCPUを搭載したノートPCにて、HX�
 北米ASUSのサポートは酷い。
 [ASUS、ぼったくりの修理代金を請求。GeForce RTX 4090の16ピンコネクタの修理代がまさかの金額に](https://www.nichepcgamer.com/archives/asus-geforce-rtx-4090-16-pin-connector-repair-cost-is-a-rip-off.html)
 
+#### PRIME RTX 5070 Ti および TUF RTX 5070 Ti
+
+ベイパーチャンバーは実際には搭載されていない[prime-tuf-rtx5070ti]。
+
+[prime-tuf-rtx5070ti]: https://reddit.nerdvpn.de/r/ASUS/comments/1kx27ea/psa_asus_rtx_5070_ti_prime_and_tuf_models_do_not/
+
 ### Inno3Dのグラフィックボード
 
 ファンが必ず経年劣化で壊れる。
