@@ -427,6 +427,16 @@ WaybackMachineでのアーカイブを拒否している。
 ロシア国民であるというだけで送金を停止した[^lftp-top]。
 [^lftp-top]: https://lftp.yar.ru/
 
+#### Visa, Mastercard
+
+Steamで性的なコンテンツを配信するのをやめるように圧力をかけた。^[要出典]^
+
+#### DLsite
+
+AI生成でないコンテンツを頑なにAI生成だと言い張って作品の登録を拒む。[^dlsite-1]
+
+[^dlsite-1]: https://x.com/charon_kn/status/1957799893382361177
+
 #### Firefoxに非対応
 
 ニコニコチャンネル
