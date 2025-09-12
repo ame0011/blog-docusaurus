@@ -412,6 +412,16 @@ WaybackMachineでのアーカイブを拒否している。
 
 さすがにまずいと思ったのかすぐにタイトルだけは修正したようだ。
 
+#### PayPal
+
+突如として^[いつ？]^Steamでの決済サービスを停止した[^paypal-1]。
+この件について問い合わせたところカスタマーサポートが「Steam側がPayPalを停止した」と嘘をついたという報告もある[^paypal-2]。
+
+[^paypal-1]: https://web.archive.org/web/20250812121247/https://help.steampowered.com/en/faqs/view/731C-13C7-7D04-A11E
+[^paypal-2]: https://www.youtube.com/watch?v=AZVJGtvY1js
+
+アカウントを解約しようとすると条件に本人確認書類を提出を求めてくる。
+
 #### PayPal, Flattr
 
 ロシア国民であるというだけで送金を停止した[^lftp-top]。
