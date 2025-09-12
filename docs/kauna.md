@@ -503,6 +503,13 @@ https://www.bleepingcomputer.com/news/security/dell-api-abused-to-steal-49-milli
 
 https://www.youtube.com/watch?v=YgawxLAqCNc
 
+### トヨタ GRカローラ
+
+走行中にエンジンが火を吹く事故が発生した。
+その際に支離滅裂な言い訳を声明として残した。[^toyota-grcorolla-1]
+
+[^toyota-grcorolla-1]: https://www.theautopian.com/toyota-reportedly-blames-tires-for-spontaneous-gr-corolla-engine-explosion-and-fire-which-makes-no-sense-whatsoever/
+
 ## 食品
 
 食べられるけど食べちゃだめなもの
