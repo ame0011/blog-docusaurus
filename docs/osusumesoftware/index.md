@@ -51,9 +51,9 @@ https://vscodium.com/
 
 ![対応する形式のリストを表示したスクリーンショット](./peazip-list.png)
 
-残念ながら[lz4(※圧縮率を上げても不変である高速な展開速度が利点)](https://github.com/lz4/lz4)には非対応のようだ。
+残念ながら[lz4(※圧縮率を上げても不変な高速な展開速度が特徴)](https://github.com/lz4/lz4)には非対応のようだ。
 
-PEAはおそらく独自のものっぽいが圧縮アルゴリズムはただのZlibのdeflateであり大したことはない[^pea-algo]。
+*PEA*はおそらく独自のものっぽいが圧縮アルゴリズムはただのZlibのdeflateであり大したことはない[^pea-algo]。
 
 [^pea-algo]: https://peazip.github.io/pea-file-format.html
 
