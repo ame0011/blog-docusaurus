@@ -24,6 +24,9 @@ https://vscodium.com/
 
 ### PeaZip
 
+- [公式サイト](https://peazip.github.io/index.html)
+- [ベンチマーク結果](https://peazip.github.io/peazip-compression-benchmark.html)
+
 クロスプラットフォーム対応の、CLIとGUIに両対応したアーカイバー。
 
 対応している形式:
