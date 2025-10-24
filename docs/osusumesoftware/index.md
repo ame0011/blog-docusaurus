@@ -57,6 +57,20 @@ https://vscodium.com/
 
 [^pea-algo]: https://peazip.github.io/pea-file-format.html
 
+### NormCap
+
+- [公式サイト](https://dynobo.github.io/normcap/)
+- [GitHub](https://github.com/dynobo/normcap)
+
+画面からOCR技術によりテキストを読み取ってクリップボードにコピーしてくれる。
+
+- テキストかと思ったら画像でした
+- 画像やゲーム画面の中の英語が読めない
+
+こんな状況を解決してくれる。
+
+またQRコードとバーコードにも対応しているようだ。
+
 ## Windows
 
 Windowsでのみ使えるか、使う必要のあるもの。
