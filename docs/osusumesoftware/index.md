@@ -71,6 +71,15 @@ https://vscodium.com/
 
 またQRコードとバーコードにも対応しているようだ。
 
+### Nomacs
+
+- [公式サイト](https://nomacs.org/)
+- [GitHub](https://github.com/nomacs/nomacs)
+
+![画像を表示した状態でのスクリーンショット](./nomacs.jxl)
+
+画像表示ソフトウェア。
+
 ## Windows
 
 Windowsでのみ使えるか、使う必要のあるもの。
