@@ -389,6 +389,37 @@ Kaldaien氏を開発チームに採用している。
 
 [^special-k-1]: https://steamcommunity.com/games/1157970/announcements/detail/2725193056674812318
 
+### Vencord
+
+[Vencord](https://github.com/Vendicated/Vencord)
+
+開発者のVendicated氏が母国語が英語でないものを嫌って迫害している。
+
+元々はVencordの[*Translate*](https://github.com/Vendicated/Vencord/tree/main/src/plugins/translate)というプラグインは多言語から多言語への翻訳に対応していたが、どういうわけかある時(おそらく2023年9月頃)から英語への翻訳以外はできないよう恣意的に仕様変更されてしまった[^vencord-2]。
+
+[^vencord-2]: https://sakkuntyo.github.io/2023/09/27/vencord-translater-change-language/
+
+これに対するIssueには「ignored contributor requirement」「invalid」というタグを付けて拒絶してしまっている[^vencord-1]。
+
+[^vencord-1]: https://github.com/Vendicated/Vencord/issues?q=is%3Aissue%20state%3Aclosed%20translate
+
+またソフトウェア自体もUIのi18n対応を拒絶している[^vencord-3]。
+
+[^vencord-3]: https://github.com/Vendicated/Vencord/issues/933
+
+:::info
+[GitHub](https://github.com/)では[SettingsのModeration](https://github.com/settings/blocked_users)よりユーザーのブロックが行える
+:::
+
+:::info
+[Equicord](https://github.com/Equicord/Equicord)が2025年11月20日現在主流のプラグインエコシステムのようです。
+こちらはよりプラグインが充実しており[多言語対応の翻訳プラグイン]もあります。
+:::
+
+### Brave
+
+https://www.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/
+
 ### オンラインサービス
 
 #### CloudFlare DNS
