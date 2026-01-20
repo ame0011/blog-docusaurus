@@ -570,9 +570,10 @@ https://www.youtube.com/watch?v=YgawxLAqCNc
 ### トヨタ GRカローラ
 
 走行中にエンジンが火を吹く事故が発生した。
-その際に支離滅裂な言い訳を声明として残した。[^toyota-grcorolla-1]
+その際に支離滅裂な言い訳を声明として残した。[^toyota-grcorolla-1][^toyota-grcorolla-2][📼事故の動画](https://www.youtube.com/watch?v=Mb1nMcyJQE8)
 
 [^toyota-grcorolla-1]: https://www.theautopian.com/toyota-reportedly-blames-tires-for-spontaneous-gr-corolla-engine-explosion-and-fire-which-makes-no-sense-whatsoever/
+[^toyota-grcorolla-2]: https://www.reddit.com/r/Toyota/comments/1eqjayg/toyota_voiding_warranty_for_driving_above_speed/
 
 ## 食品
 
