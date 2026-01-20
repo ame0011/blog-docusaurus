@@ -52,7 +52,12 @@ https://old.reddit.com/r/hardware/comments/1ei1zvm/intel_has_denied_two_of_my_14
 
 ### AMD Radeon GPU
 
-モニターのリフレッシュレートが60超過だとメモリクロックが最大になって下がらなくなり、アイドル消費電力がとても高くなる問題がある。
+一部のモデルはGPGPUに必要とされがちなHIPに非対応なので注意。
+[HIP SDKの対応状況](https://rocm.docs.amd.com/projects/install-on-windows/en/latest/reference/system-requirements.html)
+
+#### RDNA3世代
+
+モニターのリフレッシュレートが60超過だとメモリクロックが最大になって下がらなくなりアイドル消費電力が高くなる問題がある。
 また動画再生中の消費電力がNVIDIA GeForceより高い。
 https://www.techpowerup.com/review/amd-radeon-rx-7900-xtx/37.html
 
@@ -192,9 +197,28 @@ Hynix製メモリには第1世代～第3世代まであり、第1世代にもっ
 
 https://misskey.io/notes/a7gaywvfpo9o06bz
 
+予告されていたReflex 2はいまだに実装されていない(2026年1月現在)。
+
+### GIGABYTE製B650チップセット搭載マザーボード
+
+実は2025年上半期のBIOS/UEFIアップデートで非公式ながらB650チップセットのマザーボードでもグラフィックボードをPCIe5.0接続できるようになったのだが、後にGIGABYTEのみアップデートでこれを塞いだらしい。
+
+### GIGABYTE X670E Aorus Master
+
+Windowsを正常に立ち上げるために複数回の再起動が必要になるほど不安定であり、更に3番と4番のM.2スロットにSSDを装着されると更に悪化してしまう欠陥が放置されている[^gigabyte-x670e-aorus-master]。
+にも関わらずリコールすらしようとしない。
+
+[^gigabyte-x670e-aorus-master]: https://www.reddit.com/r/gigabytegaming/comments/1740sbm/x670e_aorus_master_issues/
+
 ### GIGABYTE製のRTX5000番台・RX9000番台のグラフィックボード
 
 サーマルパッドの代わりにサーマルゲルが使用されているのだが、それが縦向きにされただけで垂れてきてしまう問題がある。
+
+### Zotac製品
+
+言い訳をしてRMAに応じない場合[^zotac-1]がある。
+
+[^zotac-1]: https://www.reddit.com/r/pcmasterrace/comments/1pdizvr/just_a_warning_if_your_planning_to_buy_a_zotac/
 
 ### SSD
 
@@ -244,14 +268,11 @@ Windowsは定期的TRIMにのみ対応、Linuxではどちらも対応してい�
 
 ##### キオクシア (Kioxia) {#Kioxia}
 
-何の理由もなくNANDの減産を行った[^kioxia-dango]。
+競合他社は生成AI用のHBM製造に回すためにNANDを減産したためSSD市場は大幅な値上げ傾向であるのに、キオクシアだけはHBMを製造していないにも関わらず逆張りで減産を行い商機を逃した[^kioxia-dango]。
 
 [^kioxia-dango]: https://xenospectrum.com/nand-flash-production-cut-price-hike-2026-qlc-shift-ai-demand/
 
-他社はAI用のHBM製造に回すために減産しているのだが、キオクシアだけはHBMを製造していない。
-また価格についても大幅な値上げ傾向であり他社が減産を行えばそれだけで価格は上昇に転じるのは自明である。
-
-また同社は需要増加に対応するために2020年より新工場を稼動したばかりであり、更に第2製造棟を建設している最中でもある[^kioxia-1]。
+また同社は需要増加に対応するためと称して2020年より新工場を稼動したばかりであり、更に第2製造棟を建設している最中でもある[^kioxia-1]。
 
 [^kioxia-1]: https://www.kioxia.com/ja-jp/about/kitakami.html
 
@@ -443,6 +464,18 @@ Kaldaien氏を開発チームに採用している。
 
 https://www.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/
 
+### Revanced
+
+https://github.com/inotia00/ReVanced_Extended/issues/3334
+
+- 過去3年間で、YouTube ReVancedへの寄付の80%は、ごく少数の特定の貢献者によって行われた。
+- 寄稿者は3年間寄付を受け付けておらず、公共の利益のために活動しています。
+- コントリビューターは、RVXにおける長年にわたるバグの是正に、直接的または間接的にも貢献してきた。
+- 最近、ReVancedチームは、過去3年間にわたりYouTube ReVancedに積極的に貢献してきた同じ投稿者をブラックリストに載せ(禁止)した。
+
+[Morphe](https://morphe.software/)への移行が推奨されている。
+ただし現在対応しているのはYouTubeとYouTube Musicのみ(2026年1月現在)。
+
 ### オンラインサービス
 
 #### CloudFlare DNS
@@ -490,6 +523,13 @@ Steamで性的なコンテンツを配信するのをやめるように圧力を
 AI生成でないコンテンツを頑なにAI生成だと言い張って作品の登録を拒む。[^dlsite-1]
 
 [^dlsite-1]: https://x.com/charon_kn/status/1957799893382361177
+
+#### Rakuten TV
+
+サービスを継続するにも関わらず2026年末に購入した商品を全部没収すると宣言している[^rakuten-tv-1][^rakuten-tv-2]。
+
+[^rakuten-tv-1]: https://tv.rakuten.co.jp/static/20251125-press/
+[^rakuten-tv-2]: https://av.watch.impress.co.jp/docs/news/2067910.html
 
 #### Firefoxに非対応
 
@@ -545,6 +585,14 @@ https://www.urizo.top/index.php/2024/10/31/record-of-the-gta-online-fake-ban-inc
 
 顧客情報をずさんに管理して流出させた上に我々も被害者ムーブ
 https://www.bleepingcomputer.com/news/security/dell-api-abused-to-steal-49-million-customer-records-in-data-breach/
+
+### ドナルド・トランプに寄付をした組織
+
+- Amazon
+- Apple
+- Meta
+- Microsoft
+- NVIDIA
 
 ## 自動車
 
