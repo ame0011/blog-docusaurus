@@ -232,6 +232,19 @@ Windowsは定期的TRIMにのみ対応、Linuxではどちらも対応してい�
 
 連続で書き込みを行うと約330MB/s程度にまで速度が落ちてしまう。
 
+##### キオクシア (Kioxia) {#Kioxia}
+
+何の理由もなくNANDの減産を行った[^kioxia-dango]。
+
+[^kioxia-dango]: https://xenospectrum.com/nand-flash-production-cut-price-hike-2026-qlc-shift-ai-demand/
+
+他社はAI用のHBM製造に回すために減産しているのだが、キオクシアだけはHBMを製造していない。
+また価格についても大幅な値上げ傾向であり他社が減産を行えばそれだけで価格は上昇に転じるのは自明である。
+
+また同社は需要増加に対応するために2020年より新工場を稼動したばかりであり、更に第2製造棟を建設している最中でもある[^kioxia-1]。
+
+[^kioxia-1]: https://www.kioxia.com/ja-jp/about/kitakami.html
+
 #### ADATA SX8100
 
 故障報告多し。
@@ -600,6 +613,13 @@ https://www.youtube.com/watch?v=YgawxLAqCNc
 
 - https://www.youtube.com/watch?v=N7iPJScGcrs
 - https://www.youtube.com/watch?v=ipIj5ACAzS4
+
+### マクドナルド
+
+マックフライポテトの栄養情報からサイズごとの重量を削除した。
+
+1. [2025年6月20日のアーカイブ](https://web.archive.org/web/20250620071008/https://www.mcdonalds.co.jp/products/2010/)
+2. [2025年7月11日のアーカイブ](https://web.archive.org/web/20250711091129/https://www.mcdonalds.co.jp/products/2010/)
 
 ## 会社
 
